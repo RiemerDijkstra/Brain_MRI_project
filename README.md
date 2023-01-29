@@ -14,7 +14,8 @@ Moreover, we would like to credit the following GitHub repository for providing 
 
 
 
-\n\n
+\\
+
 Thank you for visiting our repository!
 
 Paul, Joris, Raoul, Yuxuan, Alkiviadis & Riemer

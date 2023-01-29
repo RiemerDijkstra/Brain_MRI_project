@@ -1,7 +1,7 @@
 # Pattern Recognition (Group 16)
 
 In this repository, you can find all the code that has been used for conducting our research on brain MRI images. 
-The main python files and Jupyter notebooks can be found directly in this repository. Bigger files or folders can be found in the Drive referenced below.
+The main python files and Jupyter notebooks can be found directly in this repository. Large files or folders can be found in the Drive referenced below.
 This Drive contains the following files/folders:
 
 - Brain MRI data set (originally from: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)

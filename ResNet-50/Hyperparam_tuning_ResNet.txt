@@ -1,0 +1,14 @@
+ResNet50
+[I 2023-01-22 14:27:23,428] A new study created in memory with name: no-name-221ea015-6ded-4e59-9963-05475db939a4
+[I 2023-01-22 14:33:41,460] Trial 0 finished with value: 0.5491803278688525 and parameters: {'learning_rate': 0.0004234505954998505, 'optimizer': 'SGD'}. Best is trial 0 with value: 0.5491803278688525.
+[I 2023-01-22 14:40:05,344] Trial 1 finished with value: 0.7295081967213115 and parameters: {'learning_rate': 0.003861725786961588, 'optimizer': 'SGD'}. Best is trial 1 with value: 0.7295081967213115.
+[I 2023-01-22 14:47:18,530] Trial 2 finished with value: 0.3442622950819672 and parameters: {'learning_rate': 0.03475796858294458, 'optimizer': 'RMSprop'}. Best is trial 1 with value: 0.7295081967213115.
+[I 2023-01-22 14:55:49,916] Trial 3 finished with value: 0.36475409836065575 and parameters: {'learning_rate': 0.022050037481505157, 'optimizer': 'Adam'}. Best is trial 1 with value: 0.7295081967213115.
+[I 2023-01-22 15:03:41,810] Trial 4 finished with value: 0.38524590163934425 and parameters: {'learning_rate': 0.02202147887172514, 'optimizer': 'RMSprop'}. Best is trial 1 with value: 0.7295081967213115.
+[I 2023-01-22 15:10:40,076] Trial 5 finished with value: 0.7049180327868853 and parameters: {'learning_rate': 0.0031292011996535275, 'optimizer': 'SGD'}. Best is trial 1 with value: 0.7295081967213115.
+[I 2023-01-22 15:18:35,383] Trial 6 finished with value: 0.5 and parameters: {'learning_rate': 0.033617586945168414, 'optimizer': 'RMSprop'}. Best is trial 1 with value: 0.7295081967213115.
+[I 2023-01-22 15:27:10,008] Trial 7 finished with value: 0.45491803278688525 and parameters: {'learning_rate': 0.005889766542690203, 'optimizer': 'Adam'}. Best is trial 1 with value: 0.7295081967213115.
+[I 2023-01-22 15:34:18,416] Trial 8 finished with value: 0.3360655737704918 and parameters: {'learning_rate': 2.4241922891059368e-05, 'optimizer': 'SGD'}. Best is trial 1 with value: 0.7295081967213115.
+[I 2023-01-22 15:42:43,959] Trial 9 finished with value: 0.6926229508196722 and parameters: {'learning_rate': 0.00041560962789946083, 'optimizer': 'Adam'}. Best is trial 1 with value: 0.7295081967213115.
+learning_rate: 0.003861725786961588
+optimizer: SGD

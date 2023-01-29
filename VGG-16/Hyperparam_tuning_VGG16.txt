@@ -1,0 +1,12 @@
+[I 2023-01-23 08:53:52,078] Trial 0 finished with value: 0.29098360655737704 and parameters: {'learning_rate': 0.002893054085254543, 'optimizer': 'RMSprop'}. Best is trial 0 with value: 0.29098360655737704.
+[I 2023-01-23 08:58:28,502] Trial 1 finished with value: 0.7950819672131147 and parameters: {'learning_rate': 1.1682013821438381e-05, 'optimizer': 'Adam'}. Best is trial 1 with value: 0.7950819672131147.
+[I 2023-01-23 09:02:51,017] Trial 2 finished with value: 0.5409836065573771 and parameters: {'learning_rate': 0.0005858192109991008, 'optimizer': 'Adam'}. Best is trial 1 with value: 0.7950819672131147.
+[I 2023-01-23 09:07:02,632] Trial 3 finished with value: 0.430327868852459 and parameters: {'learning_rate': 2.531311872743655e-05, 'optimizer': 'SGD'}. Best is trial 1 with value: 0.7950819672131147.
+[I 2023-01-23 09:11:20,540] Trial 4 finished with value: 0.7090163934426229 and parameters: {'learning_rate': 0.00037360692779646505, 'optimizer': 'Adam'}. Best is trial 1 with value: 0.7950819672131147.
+[I 2023-01-23 09:15:28,559] Trial 5 finished with value: 0.7745901639344263 and parameters: {'learning_rate': 0.006293370323616795, 'optimizer': 'SGD'}. Best is trial 1 with value: 0.7950819672131147.
+[I 2023-01-23 09:19:36,799] Trial 6 finished with value: 0.7254098360655737 and parameters: {'learning_rate': 0.019568996010191648, 'optimizer': 'SGD'}. Best is trial 1 with value: 0.7950819672131147.
+[I 2023-01-23 09:23:48,464] Trial 7 finished with value: 0.7459016393442623 and parameters: {'learning_rate': 7.661644884187395e-05, 'optimizer': 'RMSprop'}. Best is trial 1 with value: 0.7950819672131147.
+[I 2023-01-23 09:27:57,836] Trial 8 finished with value: 0.2581967213114754 and parameters: {'learning_rate': 0.06700097810773861, 'optimizer': 'RMSprop'}. Best is trial 1 with value: 0.7950819672131147.
+[I 2023-01-23 09:32:09,908] Trial 9 finished with value: 0.1762295081967213 and parameters: {'learning_rate': 0.03150803986597044, 'optimizer': 'RMSprop'}. Best is trial 1 with value: 0.7950819672131147.
+learning_rate: 1.1682013821438381e-05
+optimizer: Adam

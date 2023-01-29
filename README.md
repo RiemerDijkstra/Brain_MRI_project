@@ -4,7 +4,7 @@ In this repository, you can find all the code that has been used for conducting 
 The main python files and Jupyter notebooks can be found directly in this repository. Large files or folders can be found in the Drive referenced below.
 This Drive contains the following files/folders:
 
-- Brain MRI data set (originally from: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+- The brain MRI data set (originally from: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 - The saved models (VGG-16 and ResNet-50)
 - The Grad-CAM heatmaps of the test set images
 

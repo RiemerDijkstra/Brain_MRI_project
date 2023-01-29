@@ -12,11 +12,7 @@ Link to the Drive: https://drive.google.com/drive/folders/1CJw_d7F02Hm2ZlvKp95PP
 
 Moreover, we would like to credit the following GitHub repository for providing insight and guidance in creating reasonable Grad-CAM heatmaps: https://github.com/jacobgil/pytorch-grad-cam
 
-.
-.
-.
-.
-.
+<br />
 
 Thank you for visiting our repository!
 

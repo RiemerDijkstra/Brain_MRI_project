@@ -14,7 +14,7 @@ Moreover, we would like to credit the following GitHub repository for providing 
 
 
 \
-\
+
 
 Thank you for visiting our repository!
 
